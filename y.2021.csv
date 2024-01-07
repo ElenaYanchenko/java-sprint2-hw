@@ -1,0 +1,7 @@
+month,amount,is_exprense
+01,16200,false
+01,205000,true
+02,321690,false
+02,130000,true
+03,456,false
+03,128,true

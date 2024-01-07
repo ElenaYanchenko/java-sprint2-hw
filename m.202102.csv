@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,unit_price
+Воздушные шарики,TRUE,4700,5
+Самокаты,TRUE,5,15000
+Прокат самокатов,FALSE,800,150
